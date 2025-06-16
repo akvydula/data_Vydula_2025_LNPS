@@ -6,11 +6,17 @@ The report is available on arXiV, and accepted for publication in Physical Revie
 The repository consists of two folders:
 Maps
   -20deg map used from PDS (obtained from LP GRS and NS) 
-  -5deg map used from PDS (obtailed from LP GRS and NS
-  -5 compositions used in Wilson 2021, rebinned to 2 deg resolution
-
+  
+  -5deg map used from PDS (obtailed from LP GRS and NS)
+  
 MCNP results
-  -20deg map, latitude independent temperature
+  -20deg map, latitude independent temperature 
+  
   -20deg map, latitude dependent temperature 
+  
   -5deg map, latitude dependent temperature
-  -5 compositions used in Wilson 2021, latitude independent temperature
+  
+  -five compositions used in Wilson 2021, latitude independent temperature
+
+
+MCNP results are reported as current tallys without source flux normalization in 400 energy bins that are equally spaced between 1e-9 to 1e4 MeV.
